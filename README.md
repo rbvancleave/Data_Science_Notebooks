@@ -15,7 +15,7 @@ Keras Classification Project ------------ Exploratory data analysis and Keras cl
 
 Linear Regression Project ------------ Exploratory data analysis and linear regression model based on ecommerce customer data.
 
-Logistic Regression Project ------------ Exploratory data analysis and logistic regression model based on advertising data.
+Logistic Regression Project ------------ Exploratory data analysis and logistic regression model based on Titanic data.
 
 Natural Language Processing Project ------------ Exploratory data analysis and multinomial Naive Bayes classifier for yelp data.
 
