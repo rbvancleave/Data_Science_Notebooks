@@ -2,10 +2,14 @@
 Various DS focused notebooks using datasets
 
 911 Data Exploration:
+
 Exploratory data analysis using 911 call data.
 
+
 Decision Tree and Random Forest Project:
+
 Built decision tree model and random forest model to classify loan data.
+
 
 Financial Data Project:
 Exploratory data analysis using pandas_datareader with stock info from 6 banks.
